@@ -13,7 +13,7 @@ const Button: React.FC<ButtonProps> = ({
       <button
         type="submit"
         onClick={handelClick}
-        className="border-2 rounded-md border-red-600 p-2 "
+        className="border-2 rounded-md border-red-600 p-2  bg-red-600 text-white"
         {...props}
       >
         {buttonName}

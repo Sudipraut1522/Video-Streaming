@@ -14,18 +14,12 @@ const Footer = () => {
               <Instagram className="w-6 h-6" />
             </Link>
           </div>
-          <div className="text-white text-center md:text-left">
+          <div className="text-white text-center md:text-left mb-5">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo
             dignissimos nobis nulla animi asperiores pariatur dolore modi itaque
             deleniti distinctio blanditiis a maxime hic possimus harum
             necessitatibus recusandae, vero aliquam!Lorem Lorem ipsum dolor sit
             amet consectetur, adipisicing elit. Quo dignissimos nobis nulla
-            animi asperiores pariatur dolore modi itaque deleniti distinctio
-            blanditiis a maxime hic possimus harum necessitatibus recusandae,
-            vero aliquam!Lorem Lorem ipsum dolor sit amet consectetur,
-            adipisicing elit. Quo dignissimos nobis nulla animi asperiores
-            pariatur dolore modi itaque deleniti distinctio blanditiis a maxime
-            hic possimus harum necessitatibus recusandae, vero aliquam!Lorem
           </div>
         </div>
       </footer>
