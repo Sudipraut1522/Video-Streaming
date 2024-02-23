@@ -4,7 +4,7 @@ interface InputFieldProps {
   type: string;
   placeholder: string;
   labelname: string;
-  register: any;
+  register?: any;
   name: string;
   [x: string]: any;
   leftIcon?: React.ReactElement;
